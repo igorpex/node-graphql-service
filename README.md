@@ -1,6 +1,6 @@
 # Musicify microservices
 
-This application caontains multiple services that are used to serve for Musicify App. The follwing microservices exists:
+This application contains multiple services that are used to serve for Musicify App. The follwing microservices exists:
 
 - Albums
 - Bands
